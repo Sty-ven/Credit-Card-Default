@@ -27,7 +27,7 @@ To be able to perform all the task stated above in the different phases, Python 
 * Pandas
 
 ### Results
-The main findings of the code can be found at the post available here[https://medium.com/@oriyomistephen/credit-card-default-prediction-8c9e0601c30e?sk=ecedc1336e1eff11a8721e270772d79d].
+The main findings of the code can be found at the post available (here)[https://medium.com/@oriyomistephen/credit-card-default-prediction-8c9e0601c30e?sk=ecedc1336e1eff11a8721e270772d79d].
 
 
 ### Acknowledgement
