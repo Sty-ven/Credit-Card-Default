@@ -15,7 +15,7 @@ In this project, we will build a model to predict whether a given customer defau
 In this project, we will build a model to predict whether a given customer defaults or not.
 
 ### Files Desription
-credit-card-default: the file contains 30,000 observations of individuals who defaulted or did not default their credit card payment
+credit-card-default.csv: the file contains 30,000 observations of individuals who defaulted or did not default their credit card payment
 
 ### Installation
 To be able to perform all the task stated above in the different phases, Python should be installed with the following libraries need; Python version used 3.7
