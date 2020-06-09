@@ -3,8 +3,6 @@
 * Project Summary
 * File Description
 * Installation
-* Instructions
-* License
 * Acknowledgement
 
 ### Project Summary
